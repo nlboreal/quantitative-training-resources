@@ -5,7 +5,7 @@ To do’s:
 -	Produce video “orientation to R”. Also make accomponying text materials (Joany)
 -	Develop code/lab materials to go with osmosis lab (BIOL 1001 - Joany)
 -	Develop code/lab materials to go with yeast lab (BIOL 1001)
--	Develop a lab/video content for data visualization “lab” exercise.
+-	Develop a lab/video content for data visualization “lab” exercise (Yolanda)
 
 On the shelf
 ------
